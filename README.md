@@ -60,14 +60,10 @@ Words expressing positive sentiment like "great", and "awesome" appeared in both
 
 For further information plase see the Final Notebook.ipynb file
 
+'''
 ├── Data                                       #datasets and visuals used in project
 ├── README.md                                  #the top-level README for reviewers of this project
 ├── Final Noteboook.ipynb                      #code notebook
 ├── Notebook.pdf                               #pdf print out of code notebook
 └── Presentation.pdf                           #non-technical stakeholder presentation slides
-
-├── Data                                       #datasets and visuals used in project
-├── README.md                                  #the top-level README for reviewers of this project
-├── Tanzania Water Pump Project.ipynb          #code notebook
-├── Tanzania Notebook.pdf                      #pdf print out of code notebook
-└── Presentation.pdf                           #non-technical stakeholder presentation slides
+'''

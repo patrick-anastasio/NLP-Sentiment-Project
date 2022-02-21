@@ -1,5 +1,4 @@
 # Gauging Sentiment of Emerging Technology on Twitter
-![image-2.png](attachment:image-2.png)
 
 ## Business Problem
 

@@ -57,3 +57,11 @@ Words expressing positive sentiment like "great", and "awesome" appeared in both
 > - Explore Neural Networking techniques and Word2Vec for modeling
 > - Explore techniques for weighting specific words
 > - Look at sentiment on an individual product level
+
+For further information plase see the Final Notebook.ipynb file
+
+├── Data                                       #datasets and visuals used in project
+├── README.md                                  #the top-level README for reviewers of this project
+├── Final Noteboook.ipynb                      #code notebook
+├── Notebook.pdf                               #pdf print out of code notebook
+└── Presentation.pdf                           #non-technical stakeholder presentation slides

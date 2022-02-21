@@ -60,7 +60,7 @@ Words expressing positive sentiment like "great", and "awesome" appeared in both
 > - Explore techniques for weighting specific words
 > - Look at sentiment on an individual product level
 
-For further information plase see the Final Notebook.ipynb file: (https://github.com/patrick-anastasio/NLP-Sentiment-Project/blob/main/Final%20Notebook.ipynb)
+For further information plase see the [Final Notebook](https://github.com/patrick-anastasio/NLP-Sentiment-Project/blob/main/Final%20Notebook.ipynb)
 
 #### Repo Structure
 ```

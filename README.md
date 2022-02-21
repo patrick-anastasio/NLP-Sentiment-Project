@@ -65,3 +65,9 @@ For further information plase see the Final Notebook.ipynb file
 ├── Final Noteboook.ipynb                      #code notebook
 ├── Notebook.pdf                               #pdf print out of code notebook
 └── Presentation.pdf                           #non-technical stakeholder presentation slides
+
+├── Data                                       #datasets and visuals used in project
+├── README.md                                  #the top-level README for reviewers of this project
+├── Tanzania Water Pump Project.ipynb          #code notebook
+├── Tanzania Notebook.pdf                      #pdf print out of code notebook
+└── Presentation.pdf                           #non-technical stakeholder presentation slides

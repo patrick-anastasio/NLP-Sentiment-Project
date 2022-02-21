@@ -60,10 +60,11 @@ Words expressing positive sentiment like "great", and "awesome" appeared in both
 
 For further information plase see the Final Notebook.ipynb file
 
-'''
+#### Repo Structure
+```
 ├── Data                                       #datasets and visuals used in project
-├── README.md                                  #the top-level README for reviewers of this project
 ├── Final Noteboook.ipynb                      #code notebook
 ├── Notebook.pdf                               #pdf print out of code notebook
-└── Presentation.pdf                           #non-technical stakeholder presentation slides
-'''
+├── Presentation.pdf                           #non-technical stakeholder presentation slides
+└── README.md                                  #the top-level README for reviewers of this project
+```

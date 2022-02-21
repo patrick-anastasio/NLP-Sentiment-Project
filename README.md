@@ -1,5 +1,7 @@
 # Gauging Sentiment of Emerging Technology on Twitter
 
+![](Data/twitter-820x420-2.jpeg)
+
 ## Business Problem
 
 Gauging sentiment of a market sector, company, or product is very helpful to investment analysis. An invetment firm is analyszing emerging technology and would like a predictive model that can analyze text data to classify the sentiment; poitive or negative. Being able to gauge overall sentiment will help in analysis of the sector and help them strategically place investments in the market.
@@ -58,7 +60,7 @@ Words expressing positive sentiment like "great", and "awesome" appeared in both
 > - Explore techniques for weighting specific words
 > - Look at sentiment on an individual product level
 
-For further information plase see the Final Notebook.ipynb file
+For further information plase see the Final Notebook.ipynb file: (https://github.com/patrick-anastasio/NLP-Sentiment-Project/blob/main/Final%20Notebook.ipynb)
 
 #### Repo Structure
 ```

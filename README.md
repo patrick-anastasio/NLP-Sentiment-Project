@@ -27,13 +27,13 @@ Once the data is ready for modeling we will build a baseline and then train seve
 
 # Results
 
-### While using mutually exclusive words in a Random Forest model showed some accuracy on predictions (negative: 65%, positive: 70%), It was not more accurate than our baseline model using Naive Bayes on the full text with lemmatization. Count Vectorization also prooved to be more accurate than using TF-IDF.
+While using mutually exclusive words in a Random Forest model showed some accuracy on predictions (negative: 65%, positive: 70%), It was not more accurate than our baseline model using Naive Bayes on the full text with lemmatization. Count Vectorization also prooved to be more accurate than using TF-IDF.
 
 ## Final Model:
-> Multinomial Naive Bayes:      
-> Lemmatized text with Count Vectorization           
->> Positive prediction accuracy: 88%             
-> Negative prediction accuracy: 64%
+> ### Multinomial Naive Bayes:      
+> ### Lemmatized text with Count Vectorization           
+>> ### Positive prediction accuracy: 88%             
+> ### Negative prediction accuracy: 64%
 
 ### Interpretation:
 Imbalanced data posed problems when testing the model
